@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Bug Bounty Framework** simulates a terminal-based environment to help users experience a virtual file system and find bug bounty tools. It includes useful commands like `ls`, `cd`, `cat`, and more, combined with animated effects like binary rain, Matrix effects, and cyber grids to make the experience more engaging.
+The **Bug Bounty Framework** simulates a terminal-based environment to help users experience a virtual file system and find bug bounty tools. It includes useful commands combined with animated effects like binary rain, Matrix effects, and cyber grids to make the experience more engaging.
 
 ---
 
