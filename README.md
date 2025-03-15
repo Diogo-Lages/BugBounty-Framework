@@ -1,4 +1,4 @@
-# Bug Bounty Framework README
+# Bug Bounty Framework
 
 ## Description
 
